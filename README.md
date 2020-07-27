@@ -1,4 +1,4 @@
-# Auto Price Calculator 
+# ShareScribe
 
 This project is will help you.
 1) Manage Subscriptions.
